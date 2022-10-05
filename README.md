@@ -1,2 +1,1 @@
-# Python
-# Python projects and data processing techniques. 
+# A portfolio of projects and data processing techniques in Python. 
